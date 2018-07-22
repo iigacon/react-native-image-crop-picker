@@ -21,6 +21,6 @@ android {
 
 dependencies {
     implementation 'com.facebook.react:react-native:+'
-    implementation 'com.github.yalantis:ucrop:2.2.2-native'
+    implementation 'com.github.yalantis:ucrop:2.2.1-native'
     implementation 'id.zelory:compressor:2.1.0'
 }
